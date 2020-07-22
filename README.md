@@ -5,3 +5,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 # Query Screenshot
 ![Query Data from PyCharm](screenshots/query.png)
+
+# Query using Flask and Bootstrap Screenshot (Part 2)
+![Query Data with HTML](screenshots/querybootstrap.png)
